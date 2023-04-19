@@ -1,7 +1,7 @@
 README
 ------
 
-Template for hardware design projects, using KiCAD and FreeCAD.
+Template repository for hardware design projects, using KiCAD and FreeCAD.
 
 
 License
