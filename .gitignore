@@ -15,6 +15,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 \#auto_saved_files#
+*.lck
 
 # Ignore FreeCAD backups
 *.FCStd1
